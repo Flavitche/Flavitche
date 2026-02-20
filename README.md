@@ -7,7 +7,7 @@
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+## 🤖 Linguagens e Tecnologias
 
 <img 
     align="left" 
@@ -87,7 +87,7 @@
 
 ---
 
-### 🤖 Estatísticas
+## 🤖 Estatísticas
 
 <p align="left">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=flavitche&show_icons=true&theme=tokyonight&count_private=true" />
