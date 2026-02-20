@@ -1,4 +1,4 @@
-## 💻Flávia Vitória
+## 👩🏻‍💻Flávia Vitória
 <small>Olá! Sou Flávia Vitória, uma desenvolvedora apaixonada por dar vida a novas ideias através do código. Minha jornada me leva a explorar tanto o frontend, onde me dedico a criar interfaces intuitivas e envolventes, quanto ao backend, garantindo a robustez e funcionalidade por trás de cada solução. Adoro o processo de construir e inovar, transformando conceitos em realidade digital!</small>
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/flah_vitoria)
