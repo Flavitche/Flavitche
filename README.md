@@ -1,7 +1,30 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=008080"/>
+
+<br>
+
 <div align="center">
+  <img align="center" height="230" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHc0bnVxeHY2ejRzb2JtcW96cDk0ZXY5Z2Y3b3RnN2VvbTdzampqcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EZr27ZbJwmjE9PGyLN/giphy.gif" />
+</div>
+
+<div align="center">
+  
+  <samp>
+      <br>
+      Hi there! I'm <b>Flávia Vitória</b>
+  </samp>
+</div>
+
+<br>
+
+<div align="center" width="100%">
+  <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&pause=1000&color=4682B4&width=435&center=true&lines=Be+Welcome!;I'm+Information+Systems+Student;I+love+web+development+and+cybersecurity" alt="Typing SVG"/>
+</div>
+
+<div align="center">
+
   <br>
   <br>
+  
   <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Flavitche&theme=city_lights"/>
   <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Flavitche&theme=city_lights"/> <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Flavitche&theme=city_lights"/>
 </div>
@@ -25,7 +48,7 @@
 <details align="center">  
   <summary>
       <samp>
-        <b>Me Encontre Aqui</b>
+        <b>More Info</b>
       </samp>
   </summary>
 
@@ -39,6 +62,6 @@
 </div>
 </details>
 
-
+##
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=008080&section=footer"/>
